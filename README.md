@@ -10,6 +10,8 @@ Louise's Play fever campaign was analyzed under Theater outcomes based on Launch
 A line chart with marker was selected to visualize the Theater outcomes based on Launch date.
 The table and graph for Outcomes based on goals was also created which shows a range of set of goals from less than 1,000 to greater than 50,000 with interval of 5,000 on their funding goals. An analytical function of COUNTIFS was used to generate number for successful outcomes, failed outcomes, and canceled outcomes in a  new worksheet. It was revealed during the analysis that canceled outcomes generate no point through out the dataset. Then percentage were computed for successful, failed, and canceled outcomes.
 A line chart was then drawn from the table to show outcomes based on goals.
+
+
 <img width="392" alt="Outcome Base on goal" src="https://user-images.githubusercontent.com/89113627/133306260-83ea4f96-02a7-4caa-ae68-4582b77562b9.PNG">
 
 

@@ -9,7 +9,7 @@ A line chart was then drawn from the table to show outcomes based on goals.
 <img width="392" alt="Outcome Base on goal" src="https://user-images.githubusercontent.com/89113627/133306260-83ea4f96-02a7-4caa-ae68-4582b77562b9.PNG">
 
 
-
+## Conclusion
 In conclusion, the campaign was successful in all the months under Theater outcomes based on Launch date. The month of May and June also recorded significant increase in outcomes as compared to other months.
 Meanwhile, outcomes based on goals shows less funding goals for successful outcomes compared to failed outcomes. It is noted that when less than 20,000 funding goals were raised, Louise's Play Fever campaign recorded more successes than when large funds were being campaigned for. Therefore, campaigns for outcomes based on goals should focus on less funding rather than huge funding. Large funding is considered as a limitation for this campaign.
 Finally, there are other possible table and/or graphs that can also be created which are as follows:

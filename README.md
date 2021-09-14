@@ -3,7 +3,6 @@ Performing Kickstarter analysis to uncover trends
 This analysis centers on Louise's Play Fever campaigns which reveals how different campaigns fared in relation to their launch date and their funding goals. Kickstarter dataset are thoroughly analyzed, campaign outcomes are then being visualized based on their launch dates and their funding goals.
 ## Ananlysis and Challenges
 Louise's Play fever campaign was analyzed under Theater outcomes based on Launch date in which Pivot table fields was used to create a new dataset to visualize campaigns on launch date. Firstly, parent category and years were filtered in which only Theater outcome was selected under the filter. The outcomes was then labeled under the column axis. Date created conversion was assigned to row axis and the dates were converted into monthly basis. It was very challenging to convert the years into months to visualize the Theater outcomes based on launch date. Finally outcomes was placed into "values" which becomes count of outcomes.
-
 <img width="363" alt="Based on launch date" src="https://user-images.githubusercontent.com/89113627/133306658-fc908b11-559f-43e7-aec3-93bca88c09fd.PNG">
 
 A line chart with marker was selected to visualize the Theater outcomes based on Launch date.
